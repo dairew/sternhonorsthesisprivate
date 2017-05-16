@@ -2,4 +2,4 @@
 
 Here I explore whether or not joining pre-professional extracurricular organizations will help you get a better job.
 
-Check it out: https://dairew.github.io/sternhonorsthesisprivate
+Check it out: https://dairew.github.io/sternhonorsthesisprivate/
